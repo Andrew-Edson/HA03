@@ -2,4 +2,4 @@ This file is so I can test the file transfer of the client server app
 
 Below is the path name to make it easier
 
-Path: \Users\aedso\OneDrive\Desktop\CS 455 Fall\HA03\test.txt
+Path: \Users\aedso\OneDrive\Desktop\CS 455 Fall\HA03\client_files\test.txt

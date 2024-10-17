@@ -1,0 +1,3 @@
+This is to test the server file transfer
+
+Path: \Users\aedso\OneDrive\Desktop\CS 455 Fall\HA03\server_files\serverTest.txt
